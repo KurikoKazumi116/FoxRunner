@@ -1,17 +1,7 @@
 
-Hello!
-
-1> What your project is/does (and what it's called)
-
 This is a game made from PYGAME Library, named FoxRunner and inspired by the chrome dino game when you loose internet connection.
-
-2> Why you made your project
 I made this project to learn more about the capablities of Python code, and to make a game if we lose internet.
-
-3> How you made your project
 I made this project using Python, and used Youtube for help with syntax.
-
-4> What you struggled with and what you learned
 It was a bit difficult learning how to use the Pygame library, but when I got the hang of it, it was pretty intuitive.
 
 Thanks for reading!
